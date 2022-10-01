@@ -1,0 +1,74 @@
+{
+  "tutorials": [
+    {
+      "id": 1,
+      "title": "The Vue Tutorials",
+      "description": "The best tips and tutorials for Vue.",
+      "published": false
+    },
+    {
+      "id": 2,
+      "title": "Amazing Microsoft .NET",
+      "description": "Weekly tutorials about .NET and ASP.NET Core.",
+      "published": false
+    },
+    {
+      "id": 3,
+      "title": "JavaScript for All",
+      "description": "Tips an tricks about JavaScript from scratch.",
+      "published": false
+    },
+    {
+      "id": 4,
+      "title": "Vue Unleashed",
+      "description": "Vue at its best.",
+      "published": false
+    },
+    {
+      "id": 5,
+      "title": "lo logramos",
+      "description": "vamos mrd",
+      "published": false
+    },
+    {
+      "id": 6,
+      "title": "bfd",
+      "description": "gfd",
+      "published": true
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "name": "Fulanito Rojas",
+      "age": 45,
+      "reservation": 4546,
+      "invoices": 50,
+      "phone": 994175246
+    },
+    {
+      "id": 2,
+      "name": "Omar Rojas",
+      "age": 20,
+      "reservation": 4547,
+      "invoices": 54.3,
+      "phone": 994175562
+    },
+    {
+      "id": 3,
+      "name": "Mario Hugo",
+      "age": 41,
+      "reservation": 4861,
+      "invoices": 100,
+      "phone": 994175484
+    },
+    {
+      "id": 4,
+      "name": "Ximena",
+      "age": "45",
+      "reservation": "46954",
+      "invoices": "35.00",
+      "phone": "456318245"
+    }
+  ]
+}
